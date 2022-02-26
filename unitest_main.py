@@ -51,4 +51,5 @@ class GetStateTestCase(unittest.TestCase):
 
 
 if __name__ == "__main__":
+    # run the unit test for each modules and functions together with the joint test for the main function
     unittest.main(argv=["first-arg-is-ignored"], exit=False)
